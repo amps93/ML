@@ -295,7 +295,11 @@ $RECYCLE.BIN/
 평가지표 연습.png
 confusionMatrix.png
 ROC_mat.png
+<<<<<<< HEAD
 creditcard.csv
 creditcard-checkpoint.csv
+=======
+
+>>>>>>> 7f5835fea5b6c41ddb74ca57ad2f7ce761a21044
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,pycharm,venv
